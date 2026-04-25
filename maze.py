@@ -111,3 +111,4 @@ while game:
     
     clock.tick(FPS)
     display.update()
+    #завершение
