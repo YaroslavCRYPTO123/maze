@@ -1,3 +1,4 @@
+#запуск
 from pygame import *
 mixer.init()
 mixer.music.load('redball_Sound.mp3')
@@ -112,3 +113,4 @@ while game:
     clock.tick(FPS)
     display.update()
     #завершение
+
